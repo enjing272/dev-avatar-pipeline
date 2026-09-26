@@ -1,0 +1,2 @@
+"""Developer avatar processing service."""
+
